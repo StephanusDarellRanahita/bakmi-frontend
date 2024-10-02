@@ -17,6 +17,10 @@
     </div>
     <p>Rp 48.000</p>
   </div>
+  <div class="bg-[#f5f3ec] flex gap-[20px] p-[10px] mb-[20px]">
+    <p id="title" class="">Nota</p>
+    <p id="title">Id Transaksi: 02-10-2024</p>
+  </div>
 </template>
 <script>
 </script>
